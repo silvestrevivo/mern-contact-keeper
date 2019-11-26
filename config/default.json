@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://silvestrevivo:Mazacote76!@mern-contact-keeper-tanzm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "silvestre"
+}
