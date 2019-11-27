@@ -21,6 +21,13 @@ const ContactState = props => {
         email: 'silvestre@vivo.com',
         phone: '111-111-1111',
         type: 'personal'
+      },
+      {
+        id: 2,
+        name: 'Evelien',
+        email: 'evelien@soeter.com',
+        phone: '222-222-2222',
+        type: 'profesional'
       }
     ]
   }
